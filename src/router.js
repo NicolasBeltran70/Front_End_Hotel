@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Inicio from './components/inicio'
 import CReserva from './components/Reserva'
-import CCalendario from './components/calendario'
+import CCalendario from './components/Calendario'
 
 Vue.use(Router)
 
